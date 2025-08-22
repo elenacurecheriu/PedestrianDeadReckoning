@@ -2,6 +2,8 @@
 
 Implementation of the PDR technique into an algorithm that retraces the path followed by the user of a chest-worn device, based on accelerometer, gyroscope and magnetometer data.
 
+Done during my internship at StarTech Team.
+
 ## Features
 
 - Step detector with adaptive thresholds and signal filtering
