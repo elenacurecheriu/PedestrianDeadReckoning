@@ -1,6 +1,6 @@
 # Pedestrian Dead Reckoning
 
-Implementation of the PDR technique into an algorithm that retraces the path followed by the user of a chest-worn device, based on accelerometer, gyroscope and magnetometer data.
+Implementation of the PDR technique into an algorithm that retraces the path followed by the user of a chest-worn device, based on accelerometer, gyroscope and magnetometer data, without relying on GPS data.
 
 Done during my internship at StarTech Team.
 
